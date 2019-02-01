@@ -11,6 +11,30 @@ Unity 2017.4<br>
 	<li>The wireless base station works like a Vive Lighthouse--it only requires power; there's no data connection.</li>
 </ul>
 
+### Pairing:<br>
+http://forums.nolovr.com/discussion/493/pairing-issue-cant-pair-my-controllers<br>
+<pre>
+1. Turn on the base station.
+
+2. Press and hold the pair button on the base station till it flashes green
+
+3. Turn on the controllers
+
+4. On each one (one at a time) press and hold the hidden pair button above the grip until it vibrates and/or turns off
+
+5. Press and hold the pair button on the marker while it is plugged into power (probably fine to do this connected to a PC) until the light flashes
+
+6. Press and let go the pair button on the back of the base station
+</pre>
+
+### Calibrating:<br>
+https://www.nolovr.com/OCGO
+<img src="./docs/images/calibration.png">
+
+### Firmware update:<br>
+https://www.reddit.com/r/NoloVR/comments/6nebl3/controllers_positional_tracking_are_reversed/dkyf2nc/<br>
+If calibration repeatedly fails, old firmware may be to blame. Updater app in the tools folder; use at your own risk.<br>
+
 ### Notes: 
 <ul>
 	<li>Although Nolo has Windows drivers (and can even be made to work with SteamVR), it's mainly intended for use with Android.</li>
@@ -19,16 +43,4 @@ Unity 2017.4<br>
 	<li>Instead, install the DRM-free Android dev server apk in the tools folder.</li>
 	<li>Although the docs say 4.4 KitKat is the recommended Android SDK, the examples use 7.0 Nougat.</li>
 </ul>
-
-### Pairing:<br>
-http://forums.nolovr.com/discussion/493/pairing-issue-cant-pair-my-controllers<br>
-
-### Calibrating:<br>
-https://www.nolovr.com/OCGO
-
-### Firmware update:<br>
-https://www.reddit.com/r/NoloVR/comments/6nebl3/controllers_positional_tracking_are_reversed/dkyf2nc/<br>
-If calibration repeatedly fails, old firmware may be to blame. Updater app in the tools folder; use at your own risk.<br>
-
 <img src="./docs/images/cardboardsetting.png">
-<img src="./docs/images/calibration.png">
