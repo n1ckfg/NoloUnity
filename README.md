@@ -17,4 +17,7 @@ More notes:
 	<li>For Android development, you don't have to install any of the Windows apps mentioned in the docs.</li>
 	<li>You also don't want to install the Nolo Home Android app mentioned in the docs. That's an app store, and if you install it all your Android builds will require a cert to communicate with the Nolo base station.</li> 
 	<li>Instead, install the DRM-free Android server app included here.</li>
+	<li>Although the docs say 4.4 KitKat is the recommended Android SDK, the examples use 7.0 Nougat.</li>
 </ul>
+
+<img src="./docs/images/cardboardsetting.png">
