@@ -4,14 +4,17 @@ Nolo Unity SDK 1.0<br>
 Nolo Android Server 1.0.3<br>
 Unity 2017.4<br>
 
-The Nolo kit:
+### The Nolo kit:
 <ul>
 	<li>The head tracking marker contains the "brain" of the Nolo kit, and needs to be connected to the host device over USB.</li>
 	<li>The controllers pair wirelessly with the head marker.</li>
 	<li>The base station works like a Vive Lighthouse--it only requires power; there's no data connection.</li>
 </ul>
 
-More notes: 
+### Pairing:<br>
+http://forums.nolovr.com/discussion/493/pairing-issue-cant-pair-my-controllers<br>
+
+### More notes: 
 <ul>
 	<li>Although Nolo has Windows drivers (and can even be made to work with SteamVR), it's mainly intended for use with Android.</li>
 	<li>For Android development, you don't have to install any of the Windows apps mentioned in the docs.</li>
