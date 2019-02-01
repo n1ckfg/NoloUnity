@@ -14,6 +14,9 @@ Unity 2017.4<br>
 ### Pairing:<br>
 http://forums.nolovr.com/discussion/493/pairing-issue-cant-pair-my-controllers<br>
 
+### Calibrating:<br>
+https://www.nolovr.com/OCGO
+
 ### Firmware update:<br>
 https://www.reddit.com/r/NoloVR/comments/6nebl3/controllers_positional_tracking_are_reversed/dkyf2nc/<br>
 
@@ -27,3 +30,4 @@ https://www.reddit.com/r/NoloVR/comments/6nebl3/controllers_positional_tracking_
 </ul>
 
 <img src="./docs/images/cardboardsetting.png">
+<img src="./docs/images/calibration.png">
