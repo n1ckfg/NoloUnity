@@ -14,6 +14,9 @@ Unity 2017.4<br>
 ### Pairing:<br>
 http://forums.nolovr.com/discussion/493/pairing-issue-cant-pair-my-controllers<br>
 
+### Firmware update:<br>
+https://www.reddit.com/r/NoloVR/comments/6nebl3/controllers_positional_tracking_are_reversed/dkyf2nc/<br>
+
 ### More notes: 
 <ul>
 	<li>Although Nolo has Windows drivers (and can even be made to work with SteamVR), it's mainly intended for use with Android.</li>
