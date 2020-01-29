@@ -6,11 +6,13 @@ Unity 2017.4<br>
 
 ### The Nolo kit:
 <ol>
-<li>The main <b>tracking marker</b>, meant to be mounted on a headset, contains the "brain" of the Nolo kit. It needs a wired USB connection to the <b>host device</b>, a phone or PC.</li>
+<li>The <b>head tracker</b>, meant to be mounted on a headset, contains the "brain" of the Nolo kit. It needs a wired USB connection to the <b>host device</b>, a phone or PC.</li>
 
-<li>The tracking marker and the two <b>controllers</b> pair wirelessly with the <b>base station</b>.</li>
+<li>The head tracker and the two <b>controllers</b> receive signals from the <b>base station</b>.</li>
 	
-<li>The base station can be placed on any flat surface facing the user. It has a 4m range, but only in its line of sight.</li>
+<li>The base station can be placed on any flat surface facing the user. It has a 4m range, but only in its line of sight. Like Vive Lighthouses, it does not need to be connected to the host device.</li>
+
+<li>Without the base station, the host device will receive rotation and button presses from the trackers, but not position.</li>
 </ol>
 
 ### Setup:<br>
